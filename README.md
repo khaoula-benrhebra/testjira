@@ -1,2 +1,5 @@
 # testjira
-THIS IS README
+
+redmeee
+hello
+HFZAJ
